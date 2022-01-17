@@ -10,7 +10,8 @@
 	  5. Lists
 	  6. Dictionaries
 	  7. Iteration
-		__Associated challenge:__ [Python Challenge 1](https://github.com/jennahgosciak/python_meetup/blob/master/Python_Challenge.ipynb)
+
+- __Associated challenge:__ [Python Challenge 1](https://github.com/jennahgosciak/python_meetup/blob/master/Python_Challenge.ipynb)
 2. [Mutability and Variables](https://github.com/jennahgosciak/python_meetup/blob/master/Mutability_and_Variables.ipynb): Additional content for meeting 1
 		1.  Variable assignment
 		2. Types of variables
@@ -27,4 +28,4 @@
     6. Python methods
     7. Python packages
     8. User-written functions
-    __Associated challenge:__ [Python Challenge 2](https://github.com/jennahgosciak/python_meetup/blob/master/Python_Challenge.ipynb)
+- __Associated challenge:__ [Python Challenge 2](https://github.com/jennahgosciak/python_meetup/blob/master/Python_Challenge.ipynb)
