@@ -13,13 +13,13 @@
 	  7. Iteration
 
 - __Associated challenge:__ [Python Challenge 1](https://github.com/jennahgosciak/python_meetup/blob/master/Python_Challenge.ipynb)
-2. [Mutability and Variables](https://github.com/jennahgosciak/python_meetup/blob/master/Mutability_and_Variables.ipynb): Additional content for meeting 1
-				1. Variable assignment
-				2. Types of variables
-				3. Object references
-				4. Object identity
-				5.  Variable names  
-				6. Reserved keywords
+2. [Mutability and Variables](https://github.com/jennahgosciak/python_meetup/blob/master/Mutability_and_Variables.ipynb): Additional content for first meeting
+		1. Variable assignment
+		2. Types of variables
+		3. Object references
+		4. Object identity
+		5.  Variable names  
+		6. Reserved keywords
 3. [Loops](https://github.com/jennahgosciak/python_meetup/blob/master/Loops.ipynb) and [Functions](https://github.com/jennahgosciak/python_meetup/blob/master/Functions.ipynb): Content for second meeting
     1. While loops
     2. For loops
