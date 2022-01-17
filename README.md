@@ -12,7 +12,7 @@
 	  7. Iteration
 
 - __Associated challenge:__ [Python Challenge 1](https://github.com/jennahgosciak/python_meetup/blob/master/Python_Challenge.ipynb)
-2. [Mutability and Variables](https://github.com/jennahgosciak/python_meetup/blob/master/Mutability_and_Variables.ipynb): Additional content for meeting 1
+2. [Mutability and Variables](https://github.com/jennahgosciak/python_meetup/blob/master/Mutability_and_Variables.ipynb): Additional content for meeting 1.
 			1.  Variable assignment
 			2. Types of variables
 			3. Object references
